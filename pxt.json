@@ -7,8 +7,6 @@
         "pxt-pca9685": "github:jdarling/pxt-pca9685#v0.0.5"
     },
     "files": [
-        "main.blocks",
-        "main.ts",
         "README.md",
         "custom.ts"
     ],
