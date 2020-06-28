@@ -1,5 +1,6 @@
 {
     "name": "summercampgruppe3",
+    "version": "0.0.1",
     "description": "Make Code udvidelse brugt af gruppe 3 til teknologiskolens summer camp 2020",
     "dependencies": {
         "core": "*",
