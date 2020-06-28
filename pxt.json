@@ -1,6 +1,6 @@
 {
-    "name": "dcServoFuncV8",
-    "description": "",
+    "name": "summercampgruppe3",
+    "description": "Make Code udvidelse brugt af gruppe 3 til teknologiskolens summer camp 2020",
     "dependencies": {
         "core": "*",
         "radio": "*",
