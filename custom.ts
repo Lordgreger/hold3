@@ -54,7 +54,7 @@ namespace dcmotor {
     //% block
     export function usedc(): void {
         PCA9685.reset(105)
-        PCA9685.init(105, 40)
+        PCA9685.init(105, 1000)
     }
 }
 
@@ -62,7 +62,7 @@ namespace servomotor {
     //% block
     export function useservo(): void {
         PCA9685.reset(105)
-        PCA9685.init(105, 40)
+        PCA9685.init(105, 1000)
     }
 
     //% block
